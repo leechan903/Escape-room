@@ -36,7 +36,7 @@ function draw()
 //The size and the color of the circle will change if the mouse goes over the circles, and the flowers will appear according to the color of the circles if the user click each circles, providing that the default flower is red
 function canvas1()
 {
-  background(255,255,255);
+  background(0,255,255);
   paintNavigation();
   
   //circle1
